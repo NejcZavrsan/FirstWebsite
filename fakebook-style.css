@@ -1,0 +1,35 @@
+h1 {
+  background-color: #eeeeee;
+}
+
+h2 {
+  background-color: #999999;
+  text-decoration: underline;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.hop{
+  border: 10px solid white
+}
+
+.hop:hover{
+  border: 10px solid brown
+}
+
+.aktivnost{
+  font-weight: bold;
+  color:brown;
+}
+
+.lastnosti {
+  background-color: #999999;
+}
+
+.kira {
+  border: 10px solid white
+}
+
+.kira:hover {
+  border: 10px solid red
+}
